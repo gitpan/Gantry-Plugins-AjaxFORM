@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Gantry-Plugins-AjaxFORM
+version: 0.01
+author:
+  - Kevin L. Esteb <kesteb@wsipc.org>
+abstract: This module provides AJAX FORM support
+license: perl
+generated_by: Module::Build version 0.2611, without YAML.pm
